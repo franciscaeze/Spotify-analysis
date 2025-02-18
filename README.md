@@ -20,5 +20,5 @@ This repository contains an analysis of Spotify listening behavior using Python.
 ## **Usage**
 - Clone the repository:
   ```sh
-  git clone https://github.com/your-username/spotify-analysis.git
+  git clone https://github.com/franciscaeze/spotify-analysis.git
   ```
